@@ -1,0 +1,22 @@
+body{
+    background-color: #111827;
+}
+
+h1{
+    color: white;
+}
+
+#button{
+    background-color: #ff3b3f;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.inputTodo{
+    order: 1;
+}
